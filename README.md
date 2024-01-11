@@ -10,7 +10,7 @@ Project Game yang menggunakan Unity
 
 # Pacman-like Game
 * Game ini dikerjakan untuk menyelesaikan course AI Game Programming - AGC Batch 5
-* Mainkan game disini
+* Mainkan game [disini](https://github.com/helmy-faishal/pacman-like-game-agc5)
 
 # Maze Looter
 * Game yang memiliki tujuan untuk mengambil harta karun yang berada di dalam labirin
